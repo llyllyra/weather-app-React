@@ -4,4 +4,4 @@ Une application météo fait dans le cadre de la formation becode.
 
 Project fait en react avec le framework Tailwinds.
 
-Liens du projet:
+Liens du projet: https://llyllyra.github.io/weather-app-React/

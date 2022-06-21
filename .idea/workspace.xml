@@ -4,7 +4,7 @@
     <list default="true" id="67287439-1af3-4495-9ece-8766e10764e0" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/services/weatherService.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/weatherService.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +91,7 @@
       <workItem from="1655548664605" duration="1392000" />
       <workItem from="1655708545593" duration="8846000" />
       <workItem from="1655795311501" duration="168000" />
+      <workItem from="1655798133182" duration="521000" />
     </task>
     <servers />
   </component>
